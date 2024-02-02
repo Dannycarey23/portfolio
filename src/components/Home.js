@@ -20,17 +20,18 @@ const Home = () => {
 
             <p>The tools and technologies I have recently been learning:
                 <ul>
-                    <li>Javascript <img src='./assets/logos/js.svg' alt='javascript logo' className='tools' /></li>
-                    <li>React <img src='./assets/logos/react.svg' alt='React logo' className='tools' /></li>
-                    <li>Node.js <img src='./assets/logos/node.svg' alt='Node logo' className='tools' /></li>
-                    <li>Java <img src='./assets/logos/Java.svg' alt='Java logo' className='tools' /></li>
-                    <li>Python <img src='./assets/logos/python.svg' alt='Python logo' className='tools' /></li>
-                    <li>Flask <img src='./assets/logos/flask.svg' alt='Flask logo' className='tools' /></li>
-                </ul><ul>
-                    <li>Express <img src='./assets/logos/express.svg' alt='Express logo' className='tools' /></li>
-                    <li>HTML<img src='/assets/logos/html.svg' alt='HTML logo' className='tools' /></li>
-                    <li>CSS<img src='/assets/logos/css.svg' alt='CSS logo' className='tools' /></li>
-                    <li>Bootstrap<img src='/assets/logos/bootstrap.svg' alt='Bootstrap logo' className='tools' /></li>
+                    <li> <img src='./assets/logos/js.svg' alt='javascript logo' className='tools' /></li>
+                    <li> <img src='./assets/logos/react.svg' alt='React logo' className='tools' /></li>
+                    <li> <img src='./assets/logos/node.svg' alt='Node logo' className='tools' /></li>
+                    <li><img src='./assets/logos/Java.svg' alt='Java logo' className='tools' /></li>
+                    <li><img src='./assets/logos/python.svg' alt='Python logo' className='tools' /></li>
+                    <li> <img src='./assets/logos/flask.svg' alt='Flask logo' className='tools' /></li>
+                </ul>
+                <ul>
+                    <li> <img src='./assets/logos/express.svg' alt='Express logo' className='tools' /></li>
+                    <li> <img src='/assets/logos/html.svg' alt='HTML logo' className='tools' /></li>
+                    <li> <img src='/assets/logos/css.svg' alt='CSS logo' className='tools' /></li>
+                    <li> <img src='/assets/logos/bootstrap.svg' alt='Bootstrap logo' className='tools' /></li>
                 </ul>
             </p>
 
