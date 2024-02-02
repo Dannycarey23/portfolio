@@ -1,0 +1,15 @@
+.footerDiv{
+    width: 100%;    
+}
+.linksDiv{
+    margin: 0 auto;
+    width: 50vw;
+}
+
+.footerLogoLinks{
+    height: 4vw;
+    width: 4vw;
+    margin-left: 20%;
+    margin-top: 0.5%; 
+
+}

@@ -1,0 +1,45 @@
+import './Home.css';
+
+const Home = () => {
+
+    return (
+        <div className="homeDiv">
+            <div className='profilePic'></div>
+
+            <h1> Hello! </h1>
+
+            <p>
+                I'm Danny. A Glasgow based junior software developer who has a HND in web development and recently completed
+                CodeClan's 16 week Professional Software Development bootcamp.
+            </p>
+
+            <p>
+                I have a wealth of experience working in the financial services, construction and oil & gas industries. You can access my
+                CV from the linkin the navigation bar.
+            </p>
+
+            <p>The tools and technologies I have recently been learning:
+                <ul>
+                    <li>Javascript <img src='./assets/logos/js.svg' alt='javascript logo' className='tools' /></li>
+                    <li>React <img src='./assets/logos/react.svg' alt='React logo' className='tools' /></li>
+                    <li>Node.js <img src='./assets/logos/node.svg' alt='Node logo' className='tools' /></li>
+                    <li>Java <img src='./assets/logos/Java.svg' alt='Java logo' className='tools' /></li>
+                    <li>Python <img src='./assets/logos/python.svg' alt='Python logo' className='tools' /></li>
+                    <li>Flask <img src='./assets/logos/flask.svg' alt='Flask logo' className='tools' /></li>
+                </ul><ul>
+                    <li>Express <img src='./assets/logos/express.svg' alt='Express logo' className='tools' /></li>
+                    <li>HTML<img src='/assets/logos/html.svg' alt='HTML logo' className='tools' /></li>
+                    <li>CSS<img src='/assets/logos/css.svg' alt='CSS logo' className='tools' /></li>
+                    <li>Bootstrap<img src='/assets/logos/bootstrap.svg' alt='Bootstrap logo' className='tools' /></li>
+                </ul>
+            </p>
+
+            <p>
+                In my spare time I like to play video games or read books. A huge fantasy nerd, I recently completed Lord of the Rings
+            </p>
+
+        </div>
+    )
+}
+
+export default Home;
