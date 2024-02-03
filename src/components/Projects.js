@@ -80,7 +80,7 @@ const Projects = () => {
             <div className="project">
 
                 <div className='projectTop'>
-                    <h3><u><strong>Subway Samurai: The Provost Awakens</strong></u></h3>
+                    <h2><u><strong>Subway Samurai: The Provost Awakens</strong></u></h2>
                 </div>
 
                 {/* <div className='carousel'>
@@ -103,7 +103,7 @@ const Projects = () => {
 
             <div className="project">
                 <div className='projectTop'>
-                    <h3><u><strong>Dino Chrome</strong></u></h3>
+                    <h2><u><strong>Dino Chrome</strong></u></h2>
                 </div>
 
                 {/* <div className='carousel'>
@@ -120,6 +120,8 @@ const Projects = () => {
                     </ul>
                 </div>
             </div>
+
+            <hr></hr>
 
         </div >
     )

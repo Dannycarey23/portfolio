@@ -6,10 +6,7 @@ const Home = () => {
 
         <div className="homeDiv">
 
-            {/* <div className='profilePic'></div> */}
-
-
-            <h1> Hello! </h1>
+            <h1><strong><u>Hello!</u></strong>  </h1>
 
             <p>
                 I'm Danny. A Glasgow based junior software developer with a HND in Web Development. I recently completed
@@ -39,14 +36,17 @@ const Home = () => {
 
             <p>
                 I also have a wealth of experience working in the financial services, construction and oil & gas industries. You can access my
-                CV from the link at the top of the page.
+                CV from the link at the top of the page or contact me via the links at the bottom.
             </p>
 
             <hr></hr>
 
             <p>
-                In my spare time I like to play video games or read books. I'm huge fantasy & sci-fi fan, I recently completed Lord of the Rings.
+                In my spare time I like to play video games, read books or play guitar. I'm huge fantasy & sci-fi fan, I recently completed Lord of the Rings.
+                I've got 2 cats, Layla & Holly and just recently adopted a Hamster called Gus.
             </p>
+
+            <hr></hr>
 
         </div>
     )

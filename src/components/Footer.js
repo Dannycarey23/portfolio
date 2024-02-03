@@ -11,7 +11,7 @@ const Footer = () => {
                 <a href="https://github.com/Dannycarey23">
                     <img src="./assets/logos/github.svg" alt="Github" className="footerLogoLinks" />
                 </a>
-                <a href="mailto:me@myemail.com">
+                <a href="mailto:danielcarey501@gmail.com">
                     <img src="./assets/logos/gmail.svg" alt="Email" className="footerLogoLinks" />
                 </a>
             </div>

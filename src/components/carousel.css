@@ -7,6 +7,7 @@
     font-size: 5vh;
     z-index: 1;
     cursor: pointer;
+    
 }
 
 .rightArrow{
@@ -18,6 +19,7 @@
     font-size: 5vh;
     z-index: 1;
     cursor: pointer;
+    
 }
 
 .carouselPics{
@@ -27,6 +29,7 @@
     height: 40vh;
     width: 40vw;
     margin: 0 auto;
+    border: thin solid #bca37f;
 }
 
 .picture{
