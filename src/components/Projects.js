@@ -38,7 +38,7 @@ const Projects = () => {
 
                 <div className='projectBottom'>
                     <p>This was the first project I created during my Professional Software Development bootcamp at CodeClan. </p>
-                    <p>The project was completed in just under 1 week and was built using Python, HTML, CSS, MYSql</p>
+                    <p>The project was completed in just under 1 week and was built using Python, Flask, HTML, CSS & MySQL</p>
                     <ul>
                         <li>
                             <a href="https://github.com/Dannycarey23/vet_project">Vet Repo</a>

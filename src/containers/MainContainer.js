@@ -9,13 +9,11 @@ const MainContainer = () => {
 
     return (
         <>
+            <Navbar />
             <Router>
-                <Navbar />
                 <Routes>
-
                     <Route exact path="/" element={< Home />} />
                     <Route exact path="/projects" element={< Projects />} />
-
                 </Routes>
             </Router>
             <Footer />

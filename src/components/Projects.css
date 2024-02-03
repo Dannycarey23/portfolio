@@ -1,12 +1,20 @@
 .projectsDiv{
     text-align:justify;
-    height: 100%;
-    width: 100%;
+    margin: 5% auto;
+    height: 90%;
+    width: 50vw;
 }
 
 .project{
     height: 25%;
     width: 100%;
+}
+
+.projectTop{
+    position: relative;
+    text-align: center;
+    width: 50vw;
+    margin: 0 auto;
 }
 
 .projectBottom {
@@ -20,12 +28,7 @@
     text-align: center;
 }
 
-.projectTop{
-    position: relative;
-    text-align: center;
-    width: 50vw;
-    margin: 0 auto;
-}
+
 
 .carousel{
     height: 100%;

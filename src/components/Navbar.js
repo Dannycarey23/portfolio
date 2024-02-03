@@ -17,9 +17,6 @@ const Navbar = () => {
                     <a href="./assets/cv.pdf">CV</a>
                 </li>
 
-                <li>
-                    <a href="/contact">Contact </a>
-                </li>
             </ul>
         </nav>
     )

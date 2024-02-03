@@ -9,13 +9,8 @@ const Home = () => {
             <h1> Hello! </h1>
 
             <p>
-                I'm Danny. A Glasgow based junior software developer who has a HND in web development and recently completed
+                I'm Danny. A Glasgow based junior software developer with a HND in Web Development. I recently completed
                 CodeClan's 16 week Professional Software Development bootcamp.
-            </p>
-
-            <p>
-                I have a wealth of experience working in the financial services, construction and oil & gas industries. You can access my
-                CV from the linkin the navigation bar.
             </p>
 
             <p>The tools and technologies I have recently been learning:
@@ -36,7 +31,12 @@ const Home = () => {
             </p>
 
             <p>
-                In my spare time I like to play video games or read books. A huge fantasy nerd, I recently completed Lord of the Rings
+                I also have a wealth of experience working in the financial services, construction and oil & gas industries. You can access my
+                CV from the link at the top of the page.
+            </p>
+
+            <p>
+                In my spare time I like to play video games or read books. A huge fantasy nerd, I recently completed Lord of the Rings.
             </p>
 
         </div>
