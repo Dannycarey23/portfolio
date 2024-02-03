@@ -1,3 +1,13 @@
 body{
-    background-color: lightblue;
+    background-color: #113946;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body a{
+    color: #bca37f;
+}
+
+body a:hover{
+    color: white;
 }

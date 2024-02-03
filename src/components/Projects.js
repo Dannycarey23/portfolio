@@ -29,7 +29,7 @@ const Projects = () => {
             <div className="project">
 
                 <div className='projectTop'>
-                    <h3><u><strong>Hutchison's Vets</strong></u></h3>
+                    <h2><u><strong>Hutchison's Vets</strong></u></h2>
                 </div>
 
                 <div className='carousel'>
@@ -41,7 +41,7 @@ const Projects = () => {
                     <p>The project was completed in just under 1 week and was built using Python, Flask, HTML, CSS & MySQL</p>
                     <ul>
                         <li>
-                            <a href="https://github.com/Dannycarey23/vet_project">Vet Repo</a>
+                            <a href="https://github.com/Dannycarey23/vet_project" className='repoLink'>Vet Repo</a>
                         </li>
                     </ul>
                 </div>
@@ -55,7 +55,7 @@ const Projects = () => {
             <div className="project">
 
                 <div className='projectTop'>
-                    <h3><u><strong>BlackJack</strong></u></h3>
+                    <h2><u><strong>BlackJack</strong></u></h2>
                 </div>
 
                 <div className='carousel'>
@@ -67,7 +67,7 @@ const Projects = () => {
                     <p>Our 4 man team built the app in just 1 week. The brief is available to read on the Github readme file.</p>
                     <ul>
                         <li>
-                            <a href="https://github.com/Dannycarey23/blackjack2">BlackJack Repo</a>
+                            <a href="https://github.com/Dannycarey23/blackjack2" className='repoLink'>BlackJack Repo</a>
                         </li>
                     </ul>
                 </div>
@@ -91,8 +91,8 @@ const Projects = () => {
                     <p>This is the Capstone project that was built as part of a 5 man group project at the end of the CodeClan bootcamp.</p>
                     <p>The project was built over 2 weeks. We used React, HTML, CSS, Java, SpringBoot, HowlerJS. </p>
                     <ul>
-                        <li><a href="https://github.com/Dannycarey23/SubwaySamurai_frontend">SubSam Front-End Repo</a></li>
-                        <li><a href="https://github.com/Dannycarey23/SubwaySamurai_backend">SubSam Back-End Repo</a></li>
+                        <li><a href="https://github.com/Dannycarey23/SubwaySamurai_frontend" className='repoLink'>SubSam Front-End Repo</a></li>
+                        <li><a href="https://github.com/Dannycarey23/SubwaySamurai_backend" className='repoLink'>SubSam Back-End Repo</a></li>
                     </ul>
                 </div>
             </div>
@@ -111,17 +111,17 @@ const Projects = () => {
                 </div> */}
 
                 <div className='projectBottom'>
-                    <p>While doing initial research for the capstone project, I discovered Phaser3, a javascript game engine and took some time to complete a tutorial explaining how to build the google chrome dino browser game </p>
+                    <p>While doing initial research for the capstone project, I discovered <a href="https://phaser.io/">Phaser</a>, a javascript game engine and took some time to complete a tutorial explaining how to build the google chrome dino browser game </p>
                     <p>The link to the original tutorial can be found in the repo's readme. </p>
                     <ul>
                         <li>
-                            <a href="https://github.com/Dannycarey23/dinoChrome">Dino Chrome Repo</a>
+                            <a href="https://github.com/Dannycarey23/dinoChrome" className='repoLink'>Dino Chrome Repo</a>
                         </li>
                     </ul>
                 </div>
             </div>
 
-        </div>
+        </div >
     )
 }
 

@@ -3,15 +3,20 @@ import './Home.css';
 const Home = () => {
 
     return (
+
         <div className="homeDiv">
-            <div className='profilePic'></div>
+
+            {/* <div className='profilePic'></div> */}
+
 
             <h1> Hello! </h1>
 
             <p>
                 I'm Danny. A Glasgow based junior software developer with a HND in Web Development. I recently completed
-                CodeClan's 16 week Professional Software Development bootcamp.
+                CodeClan's 16 week Professional Software Development bootcamp and am actively seeking my first job in the industry.
             </p>
+
+            <hr></hr>
 
             <p>The tools and technologies I have recently been learning:
                 <ul>
@@ -30,13 +35,17 @@ const Home = () => {
                 </ul>
             </p>
 
+            <hr></hr>
+
             <p>
                 I also have a wealth of experience working in the financial services, construction and oil & gas industries. You can access my
                 CV from the link at the top of the page.
             </p>
 
+            <hr></hr>
+
             <p>
-                In my spare time I like to play video games or read books. A huge fantasy nerd, I recently completed Lord of the Rings.
+                In my spare time I like to play video games or read books. I'm huge fantasy & sci-fi fan, I recently completed Lord of the Rings.
             </p>
 
         </div>

@@ -1,7 +1,7 @@
 .leftArrow{
     position: absolute;
     top: 50%;
-    color: white;
+    color: black;
     left: 1px;
     transform: translate(0, -50);
     font-size: 5vh;
@@ -12,7 +12,7 @@
 .rightArrow{
     position: absolute;
     top: 50%;
-    color: white;
+    color: black;
     right: 1px;
     transform: translate(0, -50);
     font-size: 5vh;
@@ -21,7 +21,8 @@
 }
 
 .carouselPics{
-    border: thick solid black;
+    border: thin solid gray;
+    border-radius: 25px;
     position: relative;
     height: 40vh;
     width: 40vw;
