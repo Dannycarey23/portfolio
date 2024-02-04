@@ -20,7 +20,15 @@ const Projects = () => {
         { url: 'assets/blackJackPics/blackjackUserstats.png', title: 'The user stats page' },
     ]
 
-    // subSamPics = []
+    let subSamPics = [
+        { url: 'assets/subSamPics/1.png', title: 'Title Screen' },
+        { url: 'assets/subSamPics/2.png', title: 'Level 1' },
+        { url: 'assets/subSamPics/3.png', title: 'First Fight' },
+        { url: 'assets/subSamPics/4.png', title: 'Stage Complete Screen' },
+        { url: 'assets/subSamPics/5.png', title: 'Level 2' },
+        { url: 'assets/subSamPics/6.png', title: 'Final Fight' },
+        { url: 'assets/subSamPics/7.png', title: 'Game complete Screen' },
+    ]
     // dinoChromePics = []
 
     return (
@@ -83,9 +91,9 @@ const Projects = () => {
                     <h2><u><strong>Subway Samurai: The Provost Awakens</strong></u></h2>
                 </div>
 
-                {/* <div className='carousel'>
-                    <Carousel pics={}/>
-                </div> */}
+                <div className='carousel'>
+                    <Carousel pics={subSamPics} />
+                </div>
 
                 <div className='projectBottom'>
                     <p>This is the Capstone project that was built as part of a 5 man group project at the end of the CodeClan bootcamp.</p>
