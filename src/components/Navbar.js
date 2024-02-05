@@ -1,5 +1,5 @@
 import './Navbar.css';
-import pdf from '../public/assets/CV.pdf'
+import Pdf from './../CV.pdf'
 
 const Navbar = () => {
 
@@ -16,7 +16,7 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                    <a href={pdf} target="_blank" rel='noreferrer' > CV</a>
+                    <a href={Pdf} target="_blank" rel='noreferrer' > CV</a>
                 </li>
 
             </ul>
