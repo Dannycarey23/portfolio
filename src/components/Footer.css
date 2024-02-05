@@ -12,3 +12,10 @@
     margin-left: 20%;
     margin-top: 0.5%; 
 }
+
+@media only screen and (max-width: 600px) {
+    .footerLogoLinks{
+        height: 12%;
+        width: 12%;
+    }
+}

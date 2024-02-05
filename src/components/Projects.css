@@ -34,3 +34,24 @@
     margin: 0 auto;
 }
 
+@media only screen and (max-width: 600px) {
+    .projectsDiv{
+        width: 80%;
+    }
+
+    .project {
+        width: 100%;
+    }
+
+    .projectTop{
+        width: 90%;
+    }
+
+    .projectBottom {
+        width: 90%;
+    }
+
+
+}
+
+

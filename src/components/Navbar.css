@@ -12,10 +12,18 @@ nav{
 
 ul {
     list-style-type: none;
-    display: inline-flex;
-    
+    display: inline-flex;  
 }
 
 li {
     padding-right: 1em;;
+}
+
+@media only screen and (max-width: 600px) {
+    .nameText{
+        font-size: medium;
+        position: absolute;
+        left: 1em;
+        top: 0.85em;
+    }
 }

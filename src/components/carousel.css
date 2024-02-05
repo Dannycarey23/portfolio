@@ -37,3 +37,8 @@
     height: 100%;
     object-fit: contain;
 }
+
+@media only screen and (max-width: 600px) {
+    .carouselPics{
+        width: 90%;
+    }}
