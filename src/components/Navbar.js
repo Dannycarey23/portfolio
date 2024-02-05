@@ -4,6 +4,7 @@ const Navbar = () => {
 
     return (
         <nav>
+            <span className='nameText'>Danny Carey</span>
             <ul>
                 <li>
                     <a href="/">Home</a>

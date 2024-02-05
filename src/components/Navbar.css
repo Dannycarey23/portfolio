@@ -3,9 +3,17 @@ nav{
     text-align: right;
 }
 
+.nameText{
+    position: absolute;
+    left: 1em;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
 ul {
     list-style-type: none;
     display: inline-flex;
+    
 }
 
 li {
