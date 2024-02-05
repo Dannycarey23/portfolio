@@ -15,7 +15,7 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                    <a href={require("./assets/cv.pdf")} target="_blank" rel='noreferrer' > CV</a>
+                    <a href="./assets/cv.pdf" target="_blank" rel='noreferrer' > CV</a>
                 </li>
 
             </ul>

@@ -20,7 +20,7 @@ const Home = () => {
                     <li> <img src='./assets/logos/js.svg' alt='javascript logo' className='tools' /></li>
                     <li> <img src='./assets/logos/react.svg' alt='React logo' className='tools' /></li>
                     <li> <img src='./assets/logos/node.svg' alt='Node logo' className='tools' /></li>
-                    <li><img src='./assets/logos/java.svg' alt='Java logo' className='tools' /></li>
+                    <li><img src='./assets/logos/Java.svg' alt='Java logo' className='tools' /></li>
                     <li><img src='./assets/logos/python.svg' alt='Python logo' className='tools' /></li>
                     <li> <img src='./assets/logos/flask.svg' alt='Flask logo' className='tools' /></li>
                 </ul>
