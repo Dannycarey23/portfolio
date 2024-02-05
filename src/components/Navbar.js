@@ -15,11 +15,11 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                    <a href="./assets/cv.pdf">CV</a>
+                    <a href={require("./assets/cv.pdf")} target="_blank" rel='noreferrer' > CV</a>
                 </li>
 
             </ul>
-        </nav>
+        </nav >
     )
 }
 
