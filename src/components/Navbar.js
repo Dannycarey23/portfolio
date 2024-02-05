@@ -1,5 +1,5 @@
 import './Navbar.css';
-import pdf from '../../public/assets/CV.pdf'
+import pdf from '../public/assets/CV.pdf'
 
 const Navbar = () => {
 
