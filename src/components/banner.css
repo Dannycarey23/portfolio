@@ -31,3 +31,11 @@
         transform: translate(-50%, -120%);
     }
 }
+
+@media only screen and (min-width: 1200px) {
+    .profilePic{
+        left: 20%;
+        top: 6.5%;
+    }
+
+}

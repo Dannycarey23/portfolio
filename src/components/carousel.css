@@ -7,6 +7,8 @@
     font-size: 5vh;
     z-index: 1;
     cursor: pointer;
+    color: #bca37f;
+    text-shadow: 2px 2px black;
     
 }
 
@@ -19,6 +21,8 @@
     font-size: 5vh;
     z-index: 1;
     cursor: pointer;
+    color: #bca37f;
+    text-shadow: 2px 2px black;
     
 }
 
