@@ -119,9 +119,9 @@ const Projects = () => {
                     <h2><u><strong>Dino Chrome</strong></u></h2>
                 </div>
 
-                /* <div className='carousel'>
+                <div className='carousel'>
                     <Carousel pics={dinoChromePics} />
-                </div> */
+                </div>
 
                 <div className='projectBottom'>
                     <p>While doing initial research for the capstone project, I discovered <a href="https://phaser.io/">Phaser</a>, a javascript game engine and took some time to complete a tutorial explaining how to build the google chrome dino browser game </p>
