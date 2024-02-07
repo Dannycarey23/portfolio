@@ -29,7 +29,12 @@ const Projects = () => {
         { url: 'assets/subSamPics/6.png', title: 'Final Fight' },
         { url: 'assets/subSamPics/7.png', title: 'Game complete Screen' },
     ]
-    // dinoChromePics = []
+    let dinoChromePics = [
+        { url: 'assets/dinoPics/1.png', title: 'Game ready' },
+        { url: 'assets/dinoPics/2.png', title: 'Game started' },
+        { url: 'assets/dinoPics/3.png', title: 'Game end, highscore recorded' },
+        { url: 'assets/dinoPics/4.png', title: 'Game restarted showing previous highscore' },
+    ]
 
     return (
         <div className="projectsDiv">
@@ -114,9 +119,9 @@ const Projects = () => {
                     <h2><u><strong>Dino Chrome</strong></u></h2>
                 </div>
 
-                {/* <div className='carousel'>
-                    <Carousel pics={}/>
-                </div> */}
+                /* <div className='carousel'>
+                    <Carousel pics={dinoChromePics} />
+                </div> */
 
                 <div className='projectBottom'>
                     <p>While doing initial research for the capstone project, I discovered <a href="https://phaser.io/">Phaser</a>, a javascript game engine and took some time to complete a tutorial explaining how to build the google chrome dino browser game </p>
