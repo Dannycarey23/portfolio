@@ -1,5 +1,5 @@
 import './Navbar.css';
-import cv from './../DannyCareyDV.docx'
+import cv from './../DannyCareyCV.docx'
 
 const Navbar = () => {
 
