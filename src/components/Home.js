@@ -20,8 +20,8 @@ const Home = () => {
                     <li> <img src='./assets/logos/js.svg' alt='javascript logo' className='tools' /></li>
                     <li> <img src='./assets/logos/react.svg' alt='React logo' className='tools' /></li>
                     <li> <img src='./assets/logos/node.svg' alt='Node logo' className='tools' /></li>
-                    <li><img src='./assets/logos/java.svg' alt='Java logo' className='tools' /></li>
-                    <li><img src='./assets/logos/python.svg' alt='Python logo' className='tools' /></li>
+                    <li> <img src='./assets/logos/java.svg' alt='Java logo' className='tools' /></li>
+                    <li> <img src='./assets/logos/python.svg' alt='Python logo' className='tools' /></li>
                     <li> <img src='./assets/logos/flask.svg' alt='Flask logo' className='tools' /></li>
                 </ul>
                 <ul>
@@ -29,6 +29,7 @@ const Home = () => {
                     <li> <img src='/assets/logos/html.svg' alt='HTML logo' className='tools' /></li>
                     <li> <img src='/assets/logos/css.svg' alt='CSS logo' className='tools' /></li>
                     <li> <img src='/assets/logos/bootstrap.svg' alt='Bootstrap logo' className='tools' /></li>
+                    <li> <img src='/assets/logos/tailwind.svg' alt='Tailwind logo' className='tools' /></li>
                 </ul>
             </p>
 
@@ -42,8 +43,7 @@ const Home = () => {
             <hr></hr>
 
             <p>
-                In my spare time I like to play video games, read books or play guitar. I'm huge fantasy & sci-fi fan, I recently completed Lord of the Rings.
-                I've got 2 cats, Layla & Holly and just recently adopted a Hamster called Gus.
+                In my spare time I like to play video games, read books and play guitar. I'm huge horror, fantasy & sci-fi fan.
             </p>
 
             <hr></hr>
